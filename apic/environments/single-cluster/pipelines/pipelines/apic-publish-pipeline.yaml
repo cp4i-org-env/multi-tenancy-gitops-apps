@@ -14,7 +14,7 @@ spec:
       description: Github branch for the pipeline scripts
     - name: git-apic-yaml-url
       type: string
-      default: 'https://github.com/cp4i-org-env/apic-products-apis-yaml/'
+      default: 'https://github.com/cp4i-org-env/apic-products-apis-yaml.git'
       description: GitHub url where the products and APIs definitions are stored
     - name: git-apic-yaml-branch
       type: string
