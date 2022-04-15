@@ -13,7 +13,7 @@ spec:
   project: applications
   source:
     path: apic/environments/single-cluster/config
-    repoURL: https://github.com/cp4i-org-env/multi-tenancy-gitops-apps
+    repoURL: https://github.com/cp4i-org-env/multi-tenancy-gitops-apps.git
     targetRevision: master
   syncPolicy:
     automated:
